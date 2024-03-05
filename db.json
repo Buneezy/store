@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": "2048",
+      "name": "ab1",
+      "count": "1",
+      "size": {
+        "width": "3"
+      },
+      "weight": "1",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/original/144249988.jpg",
+      "comments": []
+    },
+    {
+      "id": "46c3",
+      "name": "ab",
+      "count": "-1",
+      "size": {
+        "width": "2",
+        "height": "2"
+      },
+      "weight": "2",
+      "imageUrl": "https://content.rozetka.com.ua/goods/images/original/144249988.jpg",
+      "comments": []
+    }
+  ]
+}
